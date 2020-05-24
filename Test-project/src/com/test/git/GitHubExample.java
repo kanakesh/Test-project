@@ -6,6 +6,7 @@ public class GitHubExample {
 		// TODO Auto-generated method stub
 		System.out.println("This is github project execution example");
 
+		System.out.println("hi..");
 	}
 
 }
